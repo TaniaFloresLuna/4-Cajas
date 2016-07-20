@@ -1,0 +1,23 @@
+body{
+	background-color: #999966;
+}
+
+div{
+	 height: 150px;
+	width: 300px;
+    border: 20px 10px 20px 10px;
+    background-color: #6600cc;
+    margin: 120px 60px 30px 60px;
+    padding: 40px 20px 70px 100px;
+}
+p{
+	background-color: #ffffff;
+	padding: 40px 20px 70px 100px;
+	border:dashed green;
+}
+div>div{
+    border: 2px dashed #000000;
+    background-color: #882299;
+    margin: 10px 30px 50px 80px;
+    padding: 10px 80px;
+}
